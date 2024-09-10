@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lorena Čiček.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cicekl&label=Profile%20views&color=0e75b6&style=flat" alt="cicekl" /> </p>
+<h1 align="left">Hi, I'm Lorena👋.</h1>
 
-- 🔭 I’m interested in **programming.**
+## About Me
+I am a **Bachelor's student** at the **Faculty of Electrical Engineering, Computer Science and Information Technology Osijek**, currently pursuing a **degree in Computer Science**. I am passionate about software development and exploring new technologies. Here, you’ll find my projects and assignments from university courses, as well as personal projects I work on in my free time.
 
-- 🌱 I’m currently learning **Java.**
+<h3 align="left">Languages & Tools I Use:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="csharp" width="40" height="40"/>
+  
+</p>
 
-- 📫 How to reach me **cicek.lorena@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+
